@@ -1,0 +1,17 @@
+{
+  "name": "TONOracle",
+  "description": "11 MCP tools for DeFi risk and compliance intelligence on TON",
+  "version": "1.0.0",
+  "tools": 11,
+  "category": "blockchain",
+  "tags": [
+    "ton",
+    "defi",
+    "risk",
+    "compliance",
+    "mcp"
+  ],
+  "author": "FeedOracle Technologies",
+  "license": "MIT",
+  "homepage": "https://tooloracle.io"
+}
