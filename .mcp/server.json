@@ -1,0 +1,11 @@
+{
+  "schema_version": "v2.0.0",
+  "name": "io.tooloracle/tonoracle",
+  "description": "TONOracle \u2014 TON blockchain intelligence: jetton analysis, DEX activity, validator stats. 9 tools.",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://tooloracle.io/ton/mcp/"
+    }
+  ]
+}
