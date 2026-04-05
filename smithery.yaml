@@ -1,0 +1,5 @@
+name: TONOracle
+description: TON blockchain intelligence — 9 tools
+endpoint: https://tooloracle.io/ton/mcp/
+transport: streamable-http
+license: MIT
